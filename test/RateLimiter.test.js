@@ -1,5 +1,5 @@
 /*
- * node-fast-ratelimit
+ * @kidkarolis/not-so-fast
  *
  * Copyright 2019, Karolis Narkevicius
  * Author: Karolis Narkevicius <hello@kn8.lt>

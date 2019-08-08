@@ -8,7 +8,7 @@ Based on https://github.com/valeriansaliou/node-fast-ratelimit, but updated to w
 ## Usage
 
 ```
-npm install --save not-so-fast
+npm install --save @kidkarolis/not-so-fast
 ```
 
 ## How to use?
@@ -27,7 +27,7 @@ Here's how to proceed (we take the example of rate-limiting messages sending in 
 The rate-limiter can be instanciated as such:
 
 ```js
-const RateLimiter = require("not-so-fast");
+const RateLimiter = require("@kidkarolis/not-so-fast");
 
 const messageLimiter = new RateLimiter({
   threshold : 20, // available tokens over timespan

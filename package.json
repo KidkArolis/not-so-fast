@@ -1,5 +1,5 @@
 {
-  "name": "not-so-fast",
+  "name": "@kidkarolis/not-so-fast",
   "description": "Fast and efficient in-memory rate-limit for Node, used to alleviate DOS attacks.",
   "version": "0.0.0",
   "homepage": "https://github.com/KidkArolis/not-so-fast",

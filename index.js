@@ -1,1 +1,1 @@
-module.exports = require('./lib/notSoFast')
+module.exports = require('./lib/RateLimiter')
