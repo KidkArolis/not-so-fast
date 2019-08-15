@@ -1,7 +1,7 @@
 {
   "name": "@kidkarolis/not-so-fast",
   "description": "Fast and efficient in-memory rate-limit for Node, used to alleviate DOS attacks.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/KidkArolis/not-so-fast",
   "license": "MIT",
   "repository": {
