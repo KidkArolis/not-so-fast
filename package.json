@@ -18,7 +18,7 @@
     }
   ],
   "scripts": {
-    "test": "npm run lint && istanbul cover _mocha",
+    "test": "npm run lint && istanbul cover mocha -- --exit",
     "coverage": "istanbul cover _mocha --report html",
     "lint": "healthier && prettier --check '**/*.{js,json,css}'",
     "format": "prettier --write '**/*.{js,json,css,yml}'"
