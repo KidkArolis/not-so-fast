@@ -4,6 +4,9 @@
   "version": "1.0.1",
   "homepage": "https://github.com/KidkArolis/not-so-fast",
   "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/KidkArolis/not-so-fast.git"
