@@ -33,11 +33,11 @@
     ]
   },
   "devDependencies": {
-    "healthier": "^6.4.0",
+    "healthier": "^7.0.0",
     "istanbul": "0.4.5",
-    "mocha": "^10.2.0",
+    "mocha": "^11.1.0",
     "mocha-lcov-reporter": "1.3.0",
-    "prettier": "^3.0.3"
+    "prettier": "^3.5.3"
   },
   "keywords": [
     "ratelimit",
